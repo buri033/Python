@@ -8,3 +8,6 @@ C= int(input("Ingrese el tercer valor: "))
 D= int(input("Ingrese el cuarto valor: "))
 promedio= prom(H,B,C,D)
 print("El promedio de los valores es: ", promedio)
+
+
+
